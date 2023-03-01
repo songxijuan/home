@@ -16,9 +16,9 @@ B. Eng. (Graduated)
 <br/>
 
 # Research Interests
-#### Image Quality Improvement
-#### Visual Semantic Understanding
-#### Algorithm Application
+__Image Quality Improvement__
+__Visual Semantic Understanding__
+__Algorithm Application__
 <br/>
 
 # LAB
