@@ -15,6 +15,12 @@ B. Eng. -> Ph. D. (Expected)
 B. Eng. (Graduated)
 <br/>
 
+# Publications
+[1] Image Quality Improvement <br/>
+[2] Visual Semantic Understanding <br/>
+[3] Algorithm Application
+<br/>
+
 # Research Interests
 #### Image Quality Improvement
 #### Visual Semantic Understanding
