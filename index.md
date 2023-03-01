@@ -3,9 +3,11 @@ layout: about
 ---
 
 # About Me
-#### There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+#### 
+I am currently pursuing the Ph.D. degree from University of Chinese Academy of Sciences, advised by Xuelong Li, 
+and studying as an exchange student at School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University. 
+My research interests are in computer vision, deep learning, and machine learning.
+
 <br/>
 
 # Education
