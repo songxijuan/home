@@ -1,10 +1,5 @@
----
-layout: post
-title:  "Toy Project"
-info: "toy project"
-tech: "python"
-type: Toy 
----
+
+
 
 ## Toy Project 1.
 There is no specific form.  
