@@ -17,7 +17,9 @@ B. Eng. (Graduated)
 
 # Publications
 [1] Image Quality Improvement <br/>
+
 [2] Visual Semantic Understanding <br/>
+
 [3] Algorithm Application
 <br/>
 
