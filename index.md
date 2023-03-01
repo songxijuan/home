@@ -19,6 +19,10 @@ B. Eng. (Graduated)
 __Image Quality Improvement__ <br/>
 __Visual Semantic Understanding__ <br/>
 __Algorithm Application__ 
+#### Image Quality Improvement
+#### Visual Semantic Understanding
+#### Algorithm Application
+
 <br/>
 
 # LAB
