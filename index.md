@@ -10,7 +10,7 @@ My research interests include computer vision, deep learning, and machine learni
 
 # Education
 #### 2018/09 - 2023/07    University of Chinese Academy of Sciences 
-B. Eng. -> Ph. D. (expected)
+B. Eng. -> Ph. D. (Expected)
 #### 2014/09 - 2018/07    School of Information Engineering, Nanchang University
 B. Eng. (Graduated)
 <br/>
