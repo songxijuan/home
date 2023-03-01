@@ -20,7 +20,6 @@ B. Eng. (Graduated)
 #### Visual Semantic Understanding
 #### Algorithm Application
 <br/>
-
 # LAB
 #### School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University
 <br/>
