@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I am currently pursuing the Ph.D. degree from Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, University of Chinese Academy of Sciences, advised by Xuelong Li, and studying as an exchange student at School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University. My research interests are in computer vision, deep learning, and machine learning.
+I am currently pursuing the Ph.D. degree from _Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences, University of Chinese Academy of Sciences_, advised by __Xuelong Li__, and studying as an exchange student at _School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University_. My research interests are in computer vision, deep learning, and machine learning.
 <br/>
 
 # Education
