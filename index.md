@@ -37,5 +37,5 @@ B. Eng. (Graduated)
 
 #### Center for OPTical IMagery Analysis and Learning (OPTIMAL) <br/>
 
-#### School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University 
+#### School of Artificial Intelligence, OPtics and ElectroNics (iOPEN)
 <br/>
