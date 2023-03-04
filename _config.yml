@@ -1,12 +1,12 @@
 # Site settings
-title: Welcome to Dawei Song's Homepage!
+title: Welcome to Xijuan Song's Homepage!
 baseurl: "/song"
-url: "https://song-dawei.github.io"
+url: "https://github.com/songxijuan"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Dawei Song
+  name: Xijuan Song
   desc: Ph.D. <br> University of Chinese Academy of Sciences <br> Xi'an, Shaanxi, China
   email: songdawei18@gmail.com
   selfie: assets/111.jpg
