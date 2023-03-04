@@ -12,7 +12,7 @@ My research interests include computer vision, deep learning, and machine learni
 # Education
 
 #### 2018/09 - 2021/07    University of Chinese Academy of Sciences 
-M. Phil. (Graduated)
+Ma. Eng. (Graduated)
 #### 2014/09 - 2018/07    Hunan University
 B. Eng. (Graduated)
 <br/>
