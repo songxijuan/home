@@ -1,6 +1,6 @@
 # Site settings
 title: Welcome to Xijuan Song's Homepage!
-baseurl: "/song"
+baseurl: "/home"
 url: "https://github.com/songxijuan"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
